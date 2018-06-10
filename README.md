@@ -3,5 +3,5 @@
 
 ES6系列
 
-[初识ES6之Promise（一） 基本用法](https://github.com/LyzSg/Blog/issues/2 "初识ES6之Promise（一） 基本用法")
+[初识ES6之Promise（一） 基本用法](https://github.com/LyzSg/Blog/issues/2 "初识ES6之Promise（一） 基本用法")  
 [初识ES6之Promise（二） 手动封装Promise](https://github.com/LyzSg/Blog/issues/3 "初识ES6之Promise（二） 手动封装Promise")
