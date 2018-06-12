@@ -5,6 +5,8 @@
 ## 设计模式系列
 
 [前端必会设计模式之（一） 单例模式](https://github.com/LyzSg/Blog/issues/4 "前端必会设计模式之（一） 单例模式")  
+[前端必会设计模式之（二） 代理模式](https://github.com/LyzSg/Blog/issues/5 "前端必会设计模式之（二） 代理模式")  
+
 
 ## ES6系列
 
