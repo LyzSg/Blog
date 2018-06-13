@@ -8,6 +8,8 @@
 [前端必会设计模式之（二） 代理模式](https://github.com/LyzSg/Blog/issues/5 "前端必会设计模式之（二） 代理模式")  
 [前端必会设计模式之（三） 策略模式](https://github.com/LyzSg/Blog/issues/6 "前端必会设计模式之（三） 策略模式")  
 [前端必会设计模式之（四） 工厂模式](https://github.com/LyzSg/Blog/issues/7 "前端必会设计模式之（四） 工厂模式")  
+[前端必会设计模式之（五） 装饰者模式](https://github.com/LyzSg/Blog/issues/8 "前端必会设计模式之（五） 装饰者模式")  
+
 
 
 ## ES6系列
