@@ -9,6 +9,7 @@
 [前端必会设计模式之（三） 策略模式](https://github.com/LyzSg/Blog/issues/6 "前端必会设计模式之（三） 策略模式")  
 [前端必会设计模式之（四） 工厂模式](https://github.com/LyzSg/Blog/issues/7 "前端必会设计模式之（四） 工厂模式")  
 [前端必会设计模式之（五） 装饰者模式](https://github.com/LyzSg/Blog/issues/8 "前端必会设计模式之（五） 装饰者模式")  
+[前端必会设计模式之（六） 观察者模式](https://github.com/LyzSg/Blog/issues/8 "前端必会设计模式之（六） 观察者模式")  
 
 
 
