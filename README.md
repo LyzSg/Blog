@@ -22,8 +22,7 @@
 
 
 ## Vue系列
+
 [Vue简单使用](https://github.com/LyzSg/Blog/issues/11 "Vue简单使用")
-
 [Vue-Router简单使用](https://github.com/LyzSg/Blog/issues/12 "Vue-Router简单使用")
-
 [Vuex简单使用](https://github.com/LyzSg/Blog/issues/13 "Vuex简单使用")
